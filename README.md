@@ -11,7 +11,7 @@ use: ./cmp.sh
 use: ./rltv<br/>
 inside, use: \[relatives]-\[relatives]-\[relatives]-...
 
-### Relatives List
+### Relatives Calculate Unit
 You | Me<br/>
 father<br/>
 mother<br/>
